@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/tksarso" target="blank"><img src="https://img.shields.io/twitter/follow/tksarso?logo=twitter&style=for-the-badge" alt="tksarso" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Ruby**
 
 - 👯 I’m looking to collaborate on **JavaScript & React**
 
 - 👨‍💻 All of my projects are available at [https://reggeditt.github.io/Portfolio/](https://reggeditt.github.io/Portfolio/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **tkodjoSarso@gmail.com**
 
