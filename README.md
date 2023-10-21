@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript & React**
 
-- 👨‍💻 All of my projects are available at [https://reggeditt.github.io/Portfolio/](https://reggeditt.github.io/Portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [https://reggeditt.github.io/Portfolio/](https://reggeditt.github.io/Portfolio/) -->
 
 - 💬 Ask me about **React**
 
