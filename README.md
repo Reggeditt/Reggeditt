@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript & React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-steel-89.vercel.app/](my portfolio website)
+- 👨‍💻 All of my projects are available at [https://portfolio-five-steel-89.vercel.app](my portfolio website)
 
 - 💬 Ask me about **React**
 
