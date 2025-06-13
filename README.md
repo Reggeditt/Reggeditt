@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tksarso" target="blank"><img src="https://img.shields.io/twitter/follow/tksarso?logo=twitter&style=for-the-badge" alt="tksarso" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **JavaScript & React**
 
